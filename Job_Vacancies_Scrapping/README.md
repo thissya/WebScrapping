@@ -23,7 +23,5 @@ Before running the script, ensure you have the following libraries installed:
 !pip install requests beautifulsoup4 pandas lxml
 
 
-## Site Used For Scrapping
 
-```sh
-https://www.timesjobs.com/candidate/job-search.html?searchType=personalizedSearch&from=submit&searchTextSrc=ft&searchTextText=&txtKeywords=java+and+python&txtLocation=
+
