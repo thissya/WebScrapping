@@ -8,7 +8,8 @@ The script retrieves job listings from provided URLs, extracting relevant detail
 Scraped data is appended to an Excel file, allowing for easy data management and analysis across multiple scraping sessions.
 
 
-##Prerequisites
+## Prerequisites
+
 Before running the script, ensure you have the following libraries installed:
 
  - requests
